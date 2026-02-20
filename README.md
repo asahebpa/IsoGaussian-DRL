@@ -25,10 +25,6 @@ conda activate isogaussian-drl
 pip install -r requirements.txt
 pip install -r requirements_atari.txt
 ```
-
-> Some experiments may require additional system dependencies (e.g., Atari ROMs).
-> Please refer to the original repository for environment-specific setup instructions.
-
 ---
 
 ## Codebase Origin and Attribution
