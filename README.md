@@ -41,6 +41,17 @@ The **main body of this codebase is cloned and adapted from**:
 
 If you use this repository in your work, please cite both the original codebase and this project.
 
+### This repository
+
+```bibtex
+@misc{sahebpasand2026isogaussian,
+  title={Stable Deep Reinforcement Learning via Isotropic Gaussian Representations},
+  author={Sahebpasand, Ali},
+  year={2026},
+  url={https://github.com/asahebpa/IsoGaussian-DRL}
+}
+```
+
 ### Original codebase and corresponding paper
 
 ```bibtex
@@ -59,14 +70,4 @@ If you use this repository in your work, please cite both the original codebase 
 }
 ```
 
-### This repository
-
-```bibtex
-@misc{sahebpasand2026isogaussian,
-  title={Stable Deep Reinforcement Learning via Isotropic Gaussian Representations},
-  author={Sahebpasand, Ali},
-  year={2026},
-  url={https://github.com/asahebpa/IsoGaussian-DRL}
-}
-```
 
