@@ -41,7 +41,7 @@ The **main body of this codebase is cloned and adapted from**:
 
 If you use this repository in your work, please cite both the original codebase and this project.
 
-### Original codebase
+### Original codebase and corresponding paper
 
 ```bibtex
 @misc{creus2023stabledrl,
@@ -49,6 +49,13 @@ If you use this repository in your work, please cite both the original codebase 
   author={Creus-Costa, Roger and others},
   year={2023},
   url={https://github.com/roger-creus/stable-deep-rl-at-scale}
+}
+
+@article{castanyer2025stable,
+  title={Stable Gradients for Stable Learning at Scale in Deep Reinforcement Learning},
+  author={Castanyer, Roger Creus and Obando-Ceron, Johan and Li, Lu and Bacon, Pierre-Luc and Berseth, Glen and Courville, Aaron and Castro, Pablo Samuel},
+  journal={arXiv preprint arXiv:2506.15544},
+  year={2025}
 }
 ```
 
