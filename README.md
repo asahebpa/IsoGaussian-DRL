@@ -1,1 +1,83 @@
 # Stable Deep Reinforcement Learning via Isotropic Gaussian Representations
+
+````md
+# Stable Deep Reinforcement Learning via Isotropic Gaussian Representations
+
+This repository studies stability in deep reinforcement learning through **isotropic Gaussian representations**.
+
+---
+
+## Installation
+
+This repository builds upon the codebase of  
+**[Stable Deep Reinforcement Learning at Scale](https://github.com/roger-creus/stable-deep-rl-at-scale)**.
+
+### Clone the repository
+```bash
+git clone https://github.com/asahebpa/IsoGaussian-DRL.git
+cd IsoGaussian-DRL
+````
+
+### Create and activate the environment
+
+```bash
+conda create -n isogaussian-drl python=3.9 -y
+conda activate isogaussian-drl
+```
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+pip install -r requirements_atari.txt
+```
+
+> Some experiments may require additional system dependencies (e.g., Atari ROMs).
+> Please refer to the original repository for environment-specific setup instructions.
+
+---
+
+## Codebase Origin and Attribution
+
+The **main body of this codebase is cloned and adapted from**:
+
+**Stable Deep Reinforcement Learning at Scale**
+[https://github.com/roger-creus/stable-deep-rl-at-scale](https://github.com/roger-creus/stable-deep-rl-at-scale)
+
+---
+
+## Citation
+
+If you use this repository in your work, please cite both the original codebase and this project.
+
+### Original codebase
+
+```bibtex
+@misc{creus2023stabledrl,
+  title={Stable Deep Reinforcement Learning at Scale},
+  author={Creus-Costa, Roger and others},
+  year={2023},
+  url={https://github.com/roger-creus/stable-deep-rl-at-scale}
+}
+```
+
+### This repository
+
+```bibtex
+@misc{sahebpasand2026isogaussian,
+  title={Stable Deep Reinforcement Learning via Isotropic Gaussian Representations},
+  author={Sahebpasand, Ali},
+  year={2026},
+  url={https://github.com/asahebpa/IsoGaussian-DRL}
+}
+```
+
+---
+
+## License
+
+This project follows the license of the original codebase unless otherwise specified.
+Please see the LICENSE file for details.
+
+```
+```
