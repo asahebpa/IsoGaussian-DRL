@@ -39,13 +39,13 @@ The **main body of this codebase is cloned and adapted from**:
 
 ## Citation
 
-If you use this repository in your work, please cite both of the following:
+If you use this repository in your work, please cite:
 
 ### Our paper
 
 
 
-### Corresponding Paper of the Original Codebase:
+### Paper Corresponding to the Original Codebase:
 
 ```bibtex
 @inproceedings{
