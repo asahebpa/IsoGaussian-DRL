@@ -1,6 +1,7 @@
 # Stable Deep Reinforcement Learning via Isotropic Gaussian Representations
 
-This repository studies stability in deep reinforcement learning through **isotropic Gaussian representations**.
+This repository contains code to reproduce the experimental results from the paper:
+Stable Deep Reinforcement Learning via Isotropic Gaussian Representations
 
 ---
 
@@ -62,12 +63,3 @@ If you use this repository in your work, please cite both the original codebase 
 }
 ```
 
----
-
-## License
-
-This project follows the license of the original codebase unless otherwise specified.
-Please see the LICENSE file for details.
-
-```
-```
