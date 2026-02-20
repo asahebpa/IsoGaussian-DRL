@@ -1,1 +1,1 @@
-# IsoGaussian-DRL
+# Stable Deep Reinforcement Learning via Isotropic Gaussian Representations
