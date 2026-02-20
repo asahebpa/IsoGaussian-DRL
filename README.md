@@ -1,6 +1,6 @@
 # Stable Deep Reinforcement Learning via Isotropic Gaussian Representations
 
-````md
+
 # Stable Deep Reinforcement Learning via Isotropic Gaussian Representations
 
 This repository studies stability in deep reinforcement learning through **isotropic Gaussian representations**.
@@ -16,7 +16,7 @@ This repository builds upon the codebase of
 ```bash
 git clone https://github.com/asahebpa/IsoGaussian-DRL.git
 cd IsoGaussian-DRL
-````
+```
 
 ### Create and activate the environment
 
