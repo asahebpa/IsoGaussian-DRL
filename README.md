@@ -52,21 +52,16 @@ If you use this repository in your work, please cite both the original codebase 
 }
 ```
 
-### Original codebase and corresponding paper
+### Original Codebase:
 
 ```bibtex
-@misc{creus2023stabledrl,
-  title={Stable Deep Reinforcement Learning at Scale},
-  author={Creus-Costa, Roger and others},
-  year={2023},
-  url={https://github.com/roger-creus/stable-deep-rl-at-scale}
-}
-
-@article{castanyer2025stable,
-  title={Stable Gradients for Stable Learning at Scale in Deep Reinforcement Learning},
-  author={Castanyer, Roger Creus and Obando-Ceron, Johan and Li, Lu and Bacon, Pierre-Luc and Berseth, Glen and Courville, Aaron and Castro, Pablo Samuel},
-  journal={arXiv preprint arXiv:2506.15544},
-  year={2025}
+@inproceedings{
+castanyer2025stable,
+title={Stable Gradients for Stable Learning at Scale in Deep Reinforcement Learning},
+author={Roger Creus Castanyer and Johan Obando-Ceron and Lu Li and Pierre-Luc Bacon and Glen Berseth and Aaron Courville and Pablo Samuel Castro},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025},
+url={https://openreview.net/forum?id=Vqj65VeDOu}
 }
 ```
 
