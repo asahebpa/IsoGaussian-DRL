@@ -43,6 +43,7 @@ If you use this repository in your work, please cite:
 
 ### Our paper
 
+```bibtex
 @misc{pasand2026stabledeepreinforcementlearning,
       title={Stable Deep Reinforcement Learning via Isotropic Gaussian Representations}, 
       author={Ali Saheb Pasand and Johan Obando-Ceron and Aaron Courville and Pouya Bashivan and Pablo Samuel Castro},
@@ -52,6 +53,7 @@ If you use this repository in your work, please cite:
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2602.19373}, 
 }
+```
 
 
 ### Paper Corresponding to the Original Codebase:
